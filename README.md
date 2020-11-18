@@ -21,7 +21,7 @@ $python python_org_search.py
 
 
 # the output:<br />
-![](https://github.com/k-eeer/testDemoWithSelenium/blob/master/seleniumOutput.png)
+![](https://github.com/k-eeer/testDemoWithSelenium/blob/master/seleniumDemo.png)
 
 
 
